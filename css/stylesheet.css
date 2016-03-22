@@ -599,3 +599,42 @@ h3.skill{
 .isotope-slider .filters button:hover{
     color: #FF8A8A; 
 }
+
+
+
+
+
+
+.t2 {
+        background: url(../images/picT2.png) no-repeat;
+    width: 41%;
+    height: 181px;
+    /* background-size: 200%; */
+    margin-left: 27%;
+    background-position: 0 0;
+}
+
+.miembros {
+    cursor: pointer;
+}
+
+
+
+.t2:hover {
+    background: url(../images/picT2.png) no-repeat;
+    background-position: -182px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
